@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829193001472",
+    "project_id": "yourservice-20834",
+    "storage_bucket": "yourservice-20834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829193001472:android:6f293c91cf4cfe0e7716e5",
+        "android_client_info": {
+          "package_name": "com.yuki.yourservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829193001472-37q1qc0d90l89p7l3lg1eg532n2kpng7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1bdGWejZke4L2pAIAOqdhcgMnjW5ZRNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829193001472-37q1qc0d90l89p7l3lg1eg532n2kpng7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">YourService</string>
+    <string name="prebtnlgn">Continue to Login</string>
+    <string name="prebtnreg">Register</string>
+    <string name="pretxt"> "We are at your service, we offer to fulfill are your pc build needs" </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="uname">UserName</string>
+    <string name="reg">Register</string>
+    <string name="lgn">Login</string>
+</resources>
